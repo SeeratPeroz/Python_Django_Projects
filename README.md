@@ -1,9 +1,5 @@
 # Store-Managment-System-in-Django
-+=====================================================================+
-|                                                                     |
-|                    STORE MANAGEMENT SYSTEM                          |
-|                                                                     |
-+=====================================================================+
++================= STORE MANAGEMENT SYSTEM ==================+
 
     1. Install Python (https://www.python.org/downloads/)
         NOTE: Add path while install Python
